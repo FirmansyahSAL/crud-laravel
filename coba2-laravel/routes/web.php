@@ -18,10 +18,14 @@ Route::get('/', function () {
 });
 
 Route::get('/about', function () {
-    return view('about');
+    return view('about', [
+        "name" => "aksa",
+        "email" => "syah.firman55@gmail.com",
+        "image" => "sma.jpg"
+    ]);
 });
 
-Route::get('/posts', function () {
+Route::get('/blog', function () {
     return view('posts');
 });
 
