@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,7 +8,13 @@
     <title>SMA Blog | About</title>
     <link rel="stylesheet" href="css/style.css">
 </head>
+
 <body>
     <h1>Halaman About</h1>
+    <h1>{{$name}}</h1>
+    <p>{{ $email }}</p>
+    <img src="img/<?= $image; ?>" alt="<?= $name; ?>" width="200">
+    <script src="js/script.js"></script>
 </body>
+
 </html>
