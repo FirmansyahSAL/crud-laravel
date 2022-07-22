@@ -10,8 +10,6 @@ Created by: FSLaksana
     <th class="tg-yw4l"><b>Tema</b></th>
     <th class="tg-yw4l"><b>Description</b></th>
     <th class="tg-yw4l"><b>Status</b></th>
-    <th class="tg-yw4l"><b>Notes</b></th>
-    <th class="tg-yw4l"><b>Author</b></th>
   </tr>
   
   <tr>
