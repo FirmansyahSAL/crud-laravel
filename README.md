@@ -33,11 +33,11 @@ Created by: FSLaksana
   </tr>
   <tr>
     <td class="tg-yw4l">Database, Migration & Eloquent</td>
-    <td class="tg-yw4l"><a href="">In Progress<a></td>
+    <td class="tg-yw4l"><a href="">Done<a></td>
   </tr>
   <tr>
     <td class="tg-yw4l">Post Model</td>
-    <td class="tg-yw4l"><a href="">Not Started<a></td>
+    <td class="tg-yw4l"><a href="">In Progress<a></td>
   </tr> 
       
 </table>
